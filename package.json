@@ -1,0 +1,12 @@
+{
+  "name": "structurizr-export",
+  "version": "1.0.0",
+  "description": "",
+  "bin": "./index.js",
+  "author": "Jens Markussen",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^13.5.1",
+    "yargs": "^17.3.1"
+  }
+}
